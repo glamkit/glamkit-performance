@@ -1,0 +1,28 @@
+
+Mediahash
+=========
+
+The philosophy behind the Mediahash template tag
+------------------------------------------------
+
+A common performance bottleneck with sites that have lots of 
+
+http://code.google.com/speed/page-speed/docs/rtt.html#ParallelizeDownloads
+http://www.die.net/musings/page_load_time/
+
+What does it do?
+----------------
+
+Installation
+------------
+
+Configuration
+-------------
+
+Usage
+-----
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+* :ref:`glossary`
