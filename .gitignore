@@ -1,0 +1,8 @@
+*~
+*.cm
+*.class
+*.pyc
+*.pyd
+*.so
+*.db
+glamkit_performance.egg-info
