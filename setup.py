@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(name='glamkit-performance',
-    version='0.5.0',
+    version='0.5.1',
     description='A template tag to help with concurrent media serving from Django',
     author='Thomas Ashelford',
     author_email='thomas@interaction.net.au',
