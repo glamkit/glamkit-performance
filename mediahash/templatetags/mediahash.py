@@ -17,7 +17,7 @@ def mediahash(name):
 	return dohash(name)
 
 def dohash(name):
-	if MEDIAHASH_ACTIVE:
+	if MEDIAHASH_INACTIVE:
 		m.update(name)
 		h = m.hexdigest()
 		number = int(h, 16) % settings.MEDIA_HASH_RANGE + 1
