@@ -1,5 +1,11 @@
-import md5
-
+try:
+    import hashlib
+    m = hashlib.md5()
+except ImportError:
+    # for Python << 2.5
+    import md5
+    m = md5.new()
+    
 from django import template
 from django.conf import settings
 
