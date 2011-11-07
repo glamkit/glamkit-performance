@@ -18,7 +18,7 @@ def mediahash(name):
 
 def dohash(name):
 	if MEDIAHASH_INACTIVE:
-		return "%s/%s" % (settings.MEDIA_URL, name)
+		return "%s%s" % (settings.MEDIA_URL, name)
 	else:
 		m.update(name)
 		h = m.hexdigest()
