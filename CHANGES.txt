@@ -1,3 +1,4 @@
 v0.5.0, 2010-06-22 -- Initial release.
 v0.5.1, 2010-06-22 -- Fixed broken link to docs.
 v0.5.2, 2010-06-22 -- Removed deprecations, added settings toggle.
+v0.5.3, 2011-11-07 -- Removed extraneous slash when disabled.
