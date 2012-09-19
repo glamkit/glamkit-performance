@@ -1,11 +1,6 @@
-========================
-GLAMkit-performancetools
-========================
+This repository has a new location
+----------------------------------
 
-A set of apps for improving the performance of Django sites in the GLAM (Galleries, Libraries, Archives, Museums) sector. For more information, see the `documentation <http://docs.glamkit.org/documentation/performance/>`_.
+``github.com/glamkit`` repositories have been deprecated in favour of the ixc forks. This repository is now at https://github.com/ixc/glamkit-performance.
 
-Currently only contains one app - mediahash - which provides a simple way to serve media files from multiple subdomains to improve parallel media delivery. More to come!
-
-GLAMkit-performancetools is part of the `GLAMkit framework <http://glamkit.org/>`_.
-
-Dependencies: none
+Please update your pip requirements etc. to use the new fork.
